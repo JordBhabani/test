@@ -1,0 +1,5 @@
+1.Standard layout.
+2.Common java script files.
+3.CSS files.
+4.Common images. 
+5.Administration Part(Parameter, Messaging).(All XPages & Custom Controls).
